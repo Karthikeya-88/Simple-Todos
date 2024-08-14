@@ -1,0 +1,22 @@
+.main-container {
+  background-color: #ffc2a0;
+  height: 150vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.todos-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  border-radius: 10px;
+  width: 80vw;
+}
+.heading {
+  color: #ff8542;
+  font-size: 40px;
+}
